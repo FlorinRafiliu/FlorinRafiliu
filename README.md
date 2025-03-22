@@ -6,5 +6,5 @@ I am currently a second-year Computer Science student at *Babeș-Bolyai* Univers
 If someone were to ask me, "How would you describe yourself in a few words?" I would say that I have a strong passion for learning and always strive to understand concepts deeply by asking *why?*.
 
 
-##LinkedIn profile:
+## LinkedIn profile:
 https://www.linkedin.com/in/florin-david-rafiliu-273159335/
